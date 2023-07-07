@@ -5,7 +5,7 @@ simple:
     You are a friend.
   parse_mode: html
 
-assistant:
+game_designer:
   name: Game Designer
   model_type: text
   welcome_message: Hi, I'm a game designer.
